@@ -1,0 +1,165 @@
+{
+    "questions": [{
+            "questionText": " Dhyan Chand was a Legendary ______?",
+            "options": [{
+                    "text": "Hockey Player",
+                    "correct": true
+                },
+                {
+                    "text": "Kabaddi Player"
+                },
+                {
+                    "text": "Cricketer"
+                },
+                {
+                    "text": "Chess Grandmaster"
+                }
+            ],
+            "explanation": "Major Dhyan Chand (29 August 1905 – 3 December 1979) was an Indian field hockey player widely regarded as the greatest field hockey player in history "
+        },
+        {
+            "questionText": "Which Year did Mary Kom win the Bronze at the Olympics?",
+            "options": [{
+                    "text": "2008"
+                },
+                {
+                    "text": "2004"
+                },
+                {
+                    "text": "2016"
+                },
+                {
+                    "text": "2012",
+                    "correct": true
+                }
+            ],
+            "explanation": "she is the only Indian female boxer to have qualified for the 2012 Summer Olympics, competing in the flyweight (51 kg) category and winning a bronze medal."
+        },
+        {
+            "questionText": "After how many Minutes Half Time starts in a Football match?",
+            "options": [{
+                    "text": "30 Mins"
+                },
+                {
+                    "text": "45 Mins",
+                    "correct": true
+                },
+                {
+                    "text": "40 Mins"
+                },
+                {
+                    "text": "38 Mins"
+                }
+            ],
+            "explanation": "Full Time of Football is 90 MIns. Half Time is 45 Mins."
+        },
+        {
+            "questionText": "Which Country does Lionel Messi belong to?",
+            "options": [{
+                    "text": "PSG"
+                },
+                {
+                    "text": "Argentina",
+                    "correct": true
+                },
+                {
+                    "text": "Portugal"
+                },
+                {
+                    "text": "FC Barcelona"
+                }
+            ],
+            "explanation": "Messi was born on June 24, 1987, in Rosario, Argentina."
+        },
+        {
+            "questionText": "Who is given the Nickname “God of Cricket”?",
+            "options": [{
+                    "text": "Sachin Tendulkar",
+                    "correct": true
+                },
+                {
+                    "text": "MS Dhoni"
+                },
+                {
+                    "text": "Ricky Ponting"
+                },
+                {
+                    "text": "Anil Kumble"
+                }
+            ],
+            "explanation": "The God of Cricket is Sachin Tendulkar who is famous for his cricket scores. He is a legendary cricketer with a career of 24 years! His highest scores were: 100 Centuries ; 34,357 Runs; 164 Half Centuries"
+        },
+        {
+            "questionText": "Which Sport is Performed by the Legend “Muhammad Ali”?",
+            "options": [{
+                    "text": "Weight Lifting"
+                },
+                {
+                    "text": "Swiming"
+                },
+                {
+                    "text": "Shooting"
+                },
+                {
+                    "text": "Boxing",
+                    "correct": true
+                }
+            ],
+            "explanation": " Muhammad Ali was an American professional boxer and activist. "
+        },
+        {
+            "questionText": "Where is the Famous Boxer Mary Kom from?",
+            "options": [{
+                    "text": "Mizoram"
+                },
+                {
+                    "text": "Manipur",
+                    "correct": true
+                },
+                {
+                    "text": "Nagaland"
+                },
+                {
+                    "text": "Tripura"
+                }
+            ],
+            "explanation": "Chungneijang Mary Kom Hmangte or simply, Mary Kom, was born on 1 March 1983 at Kangathei, Manipur, India."
+        },
+        {
+            "questionText": "Who has the Highest Number of Gold Medals in Olympic History?",
+            "options": [{
+                    "text": "Michael Phelps",
+                    "correct": true
+                },
+                {
+                    "text": "Larisa Latynina"
+                },
+                {
+                    "text": "Mark Spitz"
+                },
+                {
+                    "text": "Saina Nehwal"
+                }
+            ],
+            "explanation": "Michael Fred Phelps is an American swimmer and highest gold winner in Olympics. He is 18-time Olympic gold medalist, who currently holds seven world records in swimming. He is the most decorated Olympian of all time, with a total of 28 medals 23 gold, 3 silver and 2 bronze medals."
+        },
+        {
+            "questionText": "Who is known as the Flying Sikh?",
+            "options": [{
+                    "text": "Milkha Sing",
+                    "correct": true
+                },
+                {
+                    "text": "Michael Johnson"
+                },
+                {
+                    "text": "Usain Bolt"
+                },
+                {
+                    "text": "Carl Lewis"
+                }
+            ],
+            "explanation": "Milkha singh is know as flying Skih"
+        }
+    ]
+}
